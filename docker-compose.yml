@@ -1,6 +1,5 @@
 version: '3.9'
 volumes:
-  web_source:
   db_source:
 
 services:
